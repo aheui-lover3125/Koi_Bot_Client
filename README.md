@@ -1,2 +1,3 @@
 # Koi_Bot_Client
-Client version for Koi_Bot_Discord
+Not working now.
+Client version for Koi_Bot_Discord/KoGPT2_Included.
